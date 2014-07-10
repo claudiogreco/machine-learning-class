@@ -1,4 +1,4 @@
 machine-learning-class
 ======================
 
-Assignments for Coursera's Machine Learning class
+Solutions to the assignments of Coursera's Machine Learning class
